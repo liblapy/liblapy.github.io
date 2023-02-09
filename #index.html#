@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.2.0, mobirise.com">
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image:src" content="assets/images/index-meta.jpg">
+  <meta property="og:image" content="assets/images/index-meta.jpg">
+  <meta name="twitter:title" content="org">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
+  <meta name="description" content="Desarrollo web profesional para pequeños y medianos negocios, un lugar donde encontraras los mejores artesanos digitales de México.">
+  
+  
+  <title>Organización Digital</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/animatecss/animate.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+  
+</head>
+<body>
+  
+  <section class="menu menu2 cid-scjl92zG5i" once="menu" id="menu2-h">
+    
+    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+        <div class="container-fluid">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="index.html#top">
+                        <img src="assets/images/logo.png" alt="" style="height: 4.3rem;">
+                    </a>
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-warning text-primary display-2" href="index.html#top"></a></span>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-primary display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">Ofertas</a><div class="dropdown-menu"><div class="dropdown"><a class="dropdown-item dropdown-toggle text-primary display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">&nbsp;LOGO&nbsp; &nbsp;&nbsp;<br></a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-primary display-4" href="./ofertas.html" aria-expanded="false" target="_blank">+ MIL CARDS $500 pesos</a></div></div><div class="dropdown"><a class="dropdown-item dropdown-toggle text-primary display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">CURSO&nbsp; &nbsp;&nbsp;<br></a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-primary display-4" href="./ofertas.html" aria-expanded="false" target="_blank">+ USB MR. $1000 pesos&nbsp;</a></div></div><div class="dropdown"><a class="dropdown-item dropdown-toggle text-primary display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">SITIO&nbsp; &nbsp; &nbsp; &nbsp;<br></a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-primary display-4" href="./ofertas.html" aria-expanded="false" target="_blank">+ DOMINIO & HOST $5000 pesos</a></div></div></div></li><li class="nav-item dropdown"><a class="nav-link link text-primary dropdown-toggle display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">Servicios</a><div class="dropdown-menu"><a class="text-primary dropdown-item display-4" href="./ecomer.html" aria-expanded="false" target="_blank">E-Commerces</a><a class="text-primary dropdown-item display-4" href="./corpo.html" aria-expanded="false" target="_blank">Corporativas</a><a class="text-primary dropdown-item display-4" href="./blogs" aria-expanded="false" target="_blank">Blogs</a></div></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-primary display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">&nbsp;Maestros</a><div class="dropdown-menu"><a class="dropdown-item text-primary display-4" href="./diseñadores.html" aria-expanded="false" target="_blank"><span class="mbri-change-style mbr-iconfont mbr-iconfont-btn"></span>Julio</a><a class="dropdown-item text-primary display-4" href="./diseñadores.html" aria-expanded="false" target="_blank"><span class="mbri-change-style mbr-iconfont mbr-iconfont-btn"></span>Diana</a><a class="dropdown-item text-primary display-4" href="./diseñadores.html" aria-expanded="false" target="_blank"><span class="mbri-change-style mbr-iconfont mbr-iconfont-btn"></span>Nacho</a><a class="dropdown-item text-primary display-4" href="./coder.html" aria-expanded="false" target="_blank"><span class="mbri-code mbr-iconfont mbr-iconfont-btn"></span>Jorge</a><a class="dropdown-item text-primary display-4" href="./coder.html" aria-expanded="false" target="_blank"><span class="mbri-code mbr-iconfont mbr-iconfont-btn"></span>&nbsp;Ramón</a><a class="dropdown-item text-primary display-4" href="./coder.html" aria-expanded="false" target="_blank"><span class="mbri-code mbr-iconfont mbr-iconfont-btn"></span>Lena</a><a class="dropdown-item text-primary display-4" href="./analistas.html" aria-expanded="false" target="_blank"><span class="mbri-growing-chart mbr-iconfont mbr-iconfont-btn"></span>Cristian</a><a class="dropdown-item text-primary display-4" href="./analistas.html" aria-expanded="false" target="_blank"><span class="mbri-growing-chart mbr-iconfont mbr-iconfont-btn"></span>Danira</a><a class="dropdown-item text-primary display-4" href="./analistas.html" aria-expanded="false" target="_blank"><span class="mbri-growing-chart mbr-iconfont mbr-iconfont-btn"></span>Alfonso</a><a class="dropdown-item text-primary display-4" href="./fotografos.html" aria-expanded="false" target="_blank"><span class="mbri-camera mbr-iconfont mbr-iconfont-btn"></span>David</a><a class="dropdown-item text-primary display-4" href="./fotografos.html" aria-expanded="false" target="_blank"><span class="mbri-camera mbr-iconfont mbr-iconfont-btn"></span>Perla</a><a class="dropdown-item text-primary display-4" href="./fotografos.html" aria-expanded="false" target="_blank"><span class="mbri-camera mbr-iconfont mbr-iconfont-btn"></span>Artemisa</a></div></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-primary display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">LAPY</a><div class="dropdown-menu"><a class="dropdown-item text-primary display-4" href="./creador.html" target="_blank"><span class="mbri-users mbr-iconfont mbr-iconfont-btn"></span>PODCAST</a><a class="dropdown-item text-primary display-4" href="./recursos" target="_blank"><span class="mbri-edit mbr-iconfont mbr-iconfont-btn"></span>LIBROLAP</a><a class="dropdown-item text-primary display-4" href="./registro" target="_blank"><span class="mbri-bulleted-list mbr-iconfont mbr-iconfont-btn"></span>CATÁLOGO</a><a class="dropdown-item text-primary display-4" href="./login" target="_blank"><span class="mbri-user mbr-iconfont mbr-iconfont-btn"></span>REGÍSTRO</a></div>
+                    </li></ul>
+                <div class="icons-menu">
+                    <a class="iconfont-wrapper" href="https://mobiri.se" target="_blank">
+                        <span class="p-2 mbr-iconfont socicon-facebook socicon" style="color: rgb(68, 121, 217); fill: rgb(68, 121, 217);"></span>
+                    </a>
+                    
+                    
+                    
+                </div>
+                <div class="navbar-buttons mbr-section-btn"><a class="btn btn-warning display-4" href="./iniciar/" target="_blank">INICIAR</a></div>
+            </div>
+        </div>
+    </nav>
+</section> 
+
+<section class="header11 ERcid-scidQNOUVK mbr-fullscreen" id="header11-1">
+
+    
+
+    
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-6 image-wrapper">
+                <img class="w-100" src="assets/images/mbr-3.jpg" alt="">
+            </div>         <div class="col-12 col-md">
+                <div class="text-wrapper text-center"> 
+                    <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>LIBERATE DE LA VENTANA AZUL</strong></h1>
+                    <p class="mbr-text mbr-fonts-style display-7">"Con Lapy no pierdes el tiempo, escúcha"</p>
+                    <div class="mbr-section-btn mt-3"><a class="btn btn-black-outline display-7" href="contratar.html#top" target="_blank">LAPY</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="features1 cid-scikLmxOaT" id="features2-2">
+
+    
+
+    
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-box align-center">
+                        <span class="mbr-iconfont mobi-mbri-code mobi-mbri" style="color: rgb(34, 165, 229); fill: rgb(34, 165, 229);"></span>
+                        <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Aprende Código</strong></h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-box align-center">
+                        <span class="mbr-iconfont mobi-mbri-devices mobi-mbri" style="color: rgb(34, 165, 229); fill: rgb(34, 165, 229);"></span>
+                        <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Actualiza tus Apps</strong></h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-box align-center">
+                        <span class="mbr-iconfont mobi-mbri-website-theme-2 mobi-mbri" style="color: rgb(34, 165, 229); fill: rgb(34, 165, 229);"></span>
+                        <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Remodela tu Branding</strong></h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-box align-center">
+                        <span class="mbr-iconfont mobi-mbri-sites mobi-mbri" style="color: rgb(34, 165, 229); fill: rgb(34, 165, 229);"></span>
+                        <h4 class="card-title align-center mbr-black mbr-fonts-style display-7"><strong>Protege tus Ojos</strong></h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="form4 cid-scZ3B93KW1 mbr-fullscreen" id="form4-1h">
+
+    
+
+    
+
+    <div class="container">
+        <div class="row content-wrapper justify-content-center">
+            <div class="col-lg-3 offset-lg-1 mbr-form" data-form-type="formoid">
+                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="7paz6T1oybOJEx3d5ErNSiQ/ytEpMXi0pmhTq/iqvqRJx+R82Q3MtmZZLEcd4rjxBEEAciCkzoVq7tk+52Q8q80b947JKGQLD0kvC9JCxAjLbZyLrqGAM4Ij7falDqx3">
+                    <div class="">
+                        <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">¡Felicidades!</div>
+                        <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some
+                            problem!</div>
+                    </div>
+                    <div class="dragArea row">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <h1 class="mbr-section-title mb-4 display-2"><strong>Quiza más tarde</strong></h1>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <p class="mbr-text mbr-fonts-style mb-4 display-7">
+                                Recibir la promoción por correo</p>
+                        </div>
+                        <div class="col-lg-12 col-md col-12 form-group" data-for="name">
+                            <input type="text" name="name" placeholder="Nombre" data-form-field="name" class="form-control" value="" id="name-form4-1h">
+                        </div>
+                        <div class="col-lg-12 col-md col-12 form-group" data-for="email">
+                            <input type="email" name="email" placeholder="Correo" data-form-field="email" class="form-control" value="" id="email-form4-1h">
+                        </div>
+                        <div class="col-12 col-md-auto mbr-section-btn"><button type="submit" class="btn btn-danger display-4">Recibir</button></div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-lg-7 offset-lg-1 col-12">
+                <div class="image-wrapper">
+                    <img class="w-100" src="assets/images/tiendaderopa.gif" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="features20 cid-sd31yjcJTG" id="features21-1p">
+
+    
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-lg-9">
+                <div class="card-wrapper mb-4">
+                    <div class="card-box align-center">
+                        <h4 class="card-title mbr-fonts-style mb-4 display-2">
+                            <strong>Etapas</strong></h4>
+                        <p class="mbr-text mbr-fonts-style mb-4 display-7">En solo 5 pasos producimos un sitio web profesional</p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-8">
+                <div class="item mbr-flex">
+                    <div class="icon-wrap w-100">
+                        <div class="icon-box">
+                            <span class="step-number mbr-fonts-style display-5">1</span>
+                        </div>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Ubicación</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">Mediante herramientas de estudio especializados, le brindamos la tecnología para adaptar su negocio de acuerdo al mercado actualizado en su zona.</h5>
+                    </div>
+                </div>
+                <div class="item mbr-flex">
+                    <div class="icon-wrap w-100">
+                        <div class="icon-box">
+                            <span class="step-number mbr-fonts-style display-5">2</span>
+                        </div>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7">
+                            <strong>Diseño</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">Elegir colores y fuentes, seleccionar y cargar el contenido para cada sección. Detallar como visualiza el proyecto, tanto el cliente como el diseñador.</h5>
+                    </div>
+                </div>
+                <div class="item mbr-flex">
+                    <div class="icon-wrap w-100">
+                        <div class="icon-box">
+                            <span class="step-number mbr-fonts-style display-5">3</span>
+                        </div>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>Maquetado</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">Nuestro equipo de diseño estructurará la información recibida en secciones y repartirá el contenido en todo el sitio. Constantemente el borrador se actualiza para ser revisado.&nbsp;</h5>
+                    </div>
+                </div>
+                <div class="item mbr-flex">
+                    <div class="icon-wrap w-100">
+                        <div class="icon-box">
+                            <span class="step-number mbr-fonts-style display-5">4</span>
+                        </div>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7">
+                            <strong>Desarrollo</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">Un programador depura y certifica la seguridad del sitio, probando la tecnología del sitio con usuarios reales tanto en móvil como en computadora. En este último paso se revisan errores ortográficos, errores de sintaxis y problemas de diseño en plataforma.&nbsp;&nbsp;</h5>
+                    </div>
+                </div>
+                <div class="item mbr-flex last">
+                    <div class="icon-wrap w-100">
+                        <div class="icon-box">
+                            <span class="step-number mbr-fonts-style display-5">5</span>
+                        </div>
+                    </div>
+                    <div class="text-box">
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7">
+                            <strong>Entrega</strong></h4>
+                        <h5 class="icon-text mbr-black mbr-fonts-style display-4">Planeamos una campaña en redes sociales al momento de lanzar el sitio, actualizamos el vinculo y configuramos el indexado en google. Listo, hasta este punto ya puedes presumir tu sitio y generar más demanda en tus servicios o productos. ¡Empieza ya!</h5>
+                    </div>
+                </div>
+                
+                
+                
+                
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="countdown1 cid-sd8eR3oDig" id="countdown1-1r">
+    
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                
+                <h4 class="mbr-section-subtitle mb-5 align-center mbr-fonts-style display-5">Canjear promo antes de</h4>
+                <div class="countdown-cont align-center mb-5">
+                    <div class="daysCountdown col-xs-3 col-sm-3 col-md-3" title="Dias"></div>
+                    <div class="hoursCountdown col-xs-3 col-sm-3 col-md-3" title="Horas"></div>
+                    <div class="minutesCountdown col-xs-3 col-sm-3 col-md-3" title="Minutos"></div>
+                    <div class="secondsCountdown col-xs-3 col-sm-3 col-md-3" title="Secundos"></div>
+                    <div class="countdown" data-due-date="2020/12/01"></div>
+                </div>
+                
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 mx-auto mbr-form" data-form-type="formoid">
+                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="nIevFb2e5zdK094/+0CF48LX0G1d42/+edLbHMgLT4/UoUG33aZSF6OXuMrMymJMfDDNaQ9/Ex0Cng8WGNX1BZjFNn/nUDXGKYJoROZPh0EttgNRMKDr5dKtm3cxQ71Y">
+                    <div class="">
+                        <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">FELICIDADES</div>
+                        <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some problem!</div>
+                    </div>
+                    <div class="dragArea row">
+                        <div class="col form-group" data-for="email">
+                            <input type="text" name="email" placeholder="Correo electrónico" data-form-field="email" class="form-control" required="required" value="" id="email-countdown1-1r">
+                        </div>
+                        <div class="mbr-section-btn"><button type="submit" class="btn btn-danger display-4">CANJEAR</button></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<section class="form2 cid-scYXqMBvbT" id="form2-1f">
+
+    
+
+    
+    <div class="align-center container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
+                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="Oa2EygVcV9twVVtAR0u4aw+Tkz/QAdbxXihUghqHi+5SYuCDXfU1aYnpCxMKA2e73CCAyIT412tez+Dmh7NrbNBEmq9Muac+LODj+VOoyG09xaVTtUc5OVwL9UxH6g5K">
+                    <div class="">
+                        <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">¡Felicidades!</div>
+                        <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some
+                            problem!</div>
+                    </div>
+                    <div class="dragArea row">
+                        
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <p class="mbr-text mbr-fonts-style mb-5 display-5"><strong>Solo recibir más información</strong></p>
+                        </div>
+                        <div class="col-lg col-md col-12 form-group" data-for="email">
+                            <input type="text" name="name" placeholder="Nombre" data-form-field="name" class="form-control" id="name-form2-1f">
+                        </div>
+                        <div class="col-lg col-md col-12 form-group" data-for="email">
+                            <input type="email" name="email" placeholder="Correo" data-form-field="email" class="form-control" id="email-form2-1f">
+                        </div>
+                        <div class="mbr-section-btn col-md-auto col"><button type="submit" class="btn btn-danger-outline display-4">RECIBIR</button></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="footer7 cid-sdaJnO6g7U" once="footers" id="footer7-2h">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">
+                    © Copyright 2020 Liblap - All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/a" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/q" style="color:#aaa;">The site</a> was made with Mobirise website templates</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>  <script src="assets/countdown/jquery.countdown.min.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/theme/js/script.js"></script>  <script src="assets/formoid/formoid.min.js"></script>  
+  
+  
+ <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
+    <input name="animation" type="hidden">
+  </body>
+</html>
