@@ -2,7 +2,7 @@
 ## Libertad de aprender creando con Liblapy y Codespaces
 ### GITHUB CODESPACES https://github.com/features/codespaces
 ```
-//LIBLAPY CLONA REPOSITORIO EN PYTHON 
+//LIBLAPY CLONA REPOSITORIO EN LINUX
 import subprocess
 #Especifica la URL del repositorio de GitHub que deseas clonar
 repo_url = "https://github.com/nombre-de-usuario/nombre-del-repositorio.git"
